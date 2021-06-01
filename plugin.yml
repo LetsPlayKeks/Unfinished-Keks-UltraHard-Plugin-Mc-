@@ -1,0 +1,7 @@
+name: Keks-UltraHard-Plugin
+version: 1.0
+main: de.keks.ultrahard.main.Main
+author: LetsPlayKeks
+
+commands:
+   
